@@ -15,3 +15,4 @@ In this project, I predict the number of negative votes (dislike_count column) f
 
 5. **Selecting the Best Model and Predicting Negative Votes on Test Data**  
    - Identify the best-performing model and use it to predict the number of negative votes (dislike_count) in the test dataset.
+Regression models are typically used to predict continuous values, meaning all real numbers fall within the prediction space of the models. However, the number of likes and dislikes is an integer value. There are two codes for the projectm first one is predicting a real nuber for the number of dislike, the second code predicts a real number. 
